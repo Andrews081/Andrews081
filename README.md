@@ -1,5 +1,7 @@
 ### Olá eu sou Prince Andrews
 
+## Sou estudante de Análise e Desenvolvimento de Sitemas e Banco de Dados
+## Atuo como desenvolvedor freelancer, fique a vontade para me contactar para serviços.
 <div align="center">
   
   <a href="https://github.com/Andrews081">
@@ -34,7 +36,7 @@
  <a href = "mailto:princeandrews081@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
- <a href="https://www.linkedin.com/in/princeandrews" target="_blank">
+ <a href="https://www.linkedin.com/in/princeandrewsalcantara" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
  
