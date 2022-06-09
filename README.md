@@ -1,6 +1,6 @@
 # Olá eu sou Prince Andrews
 
-## Sou estudante de Análise e Desenvolvimento de Sitemas e Banco de Dados
+## Sou estudante de Análise e Desenvolvimento de Sistemas e Banco de Dados
 ## Atuo como desenvolvedor freelancer, fique a vontade para me contactar para serviços.
 <div align="center">
   
